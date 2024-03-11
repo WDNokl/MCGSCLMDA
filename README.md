@@ -1,7 +1,7 @@
 # MCGSCLMDA
 MCGSCLMDA: Multi-View Collaborative and Graph Structure Contrastive Learning for MiRNA-Disease Associations Prediction
 # REQUIREMENTS
-* This code requires the following:
+This code requires the following:
 
 * Python==3.9
 * PyTorch==1.12
