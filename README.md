@@ -8,3 +8,6 @@ This code requires the following:
 * Tqdm==4.66.1
 * Scikit-learn==1.3.0
 * Scipy==1.11.2
+# Running the Code
+
+* Execute python main.py to run the code.
