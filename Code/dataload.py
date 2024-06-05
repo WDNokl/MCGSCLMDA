@@ -159,8 +159,8 @@ class datapro:
         pos_index_matrix = np.mat(np.where(m_d_matrix == 1))
         neg_index_matrix = np.mat(np.where(m_d_matrix == 0))
 
-        pos_index = self.random_index(neg_index_matrix, args)
-        neg_index = self.random_index(pos_index_matrix, args)
+        pos_index = self.random_index(pos_index_matrix, args)
+        neg_index = self.random_index(neg_index_matrix, args)
 
         index = [pos_index[i] + neg_index[i] for i in range(args.k_fold)]
         return index
