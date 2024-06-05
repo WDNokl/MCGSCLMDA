@@ -1,0 +1,7 @@
+lr: 0.01, lr_cls: 0.001, tau: 0.9999, m: 0.999, k: 30
+Fold 1:	Aupr:0.40875	AUC:0.95723	F1_Score:0.43034	ACC:0.98523	Recall:0.46726	Specificity:0.99149	Precision:0.39883
+Fold 2:	Aupr:0.40939	AUC:0.95904	F1_Score:0.42117	ACC:0.98500	Recall:0.45721	Specificity:0.99137	Precision:0.39039
+Fold 3:	Aupr:0.42520	AUC:0.95579	F1_Score:0.43538	ACC:0.98480	Recall:0.49096	Specificity:0.99077	Precision:0.39110
+Fold 4:	Aupr:0.41978	AUC:0.96164	F1_Score:0.43324	ACC:0.98644	Recall:0.43411	Specificity:0.99311	Precision:0.43237
+Fold 5:	Aupr:0.41907	AUC:0.96116	F1_Score:0.43006	ACC:0.98636	Recall:0.43092	Specificity:0.99307	Precision:0.42920
+Final result:	Aupr:0.41644	AUC:0.95897	F1_Score:0.43004	ACC:0.98557	Recall:0.45609	Specificity:0.99196	Precision:0.40838
